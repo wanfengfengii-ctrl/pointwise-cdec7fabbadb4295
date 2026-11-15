@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "kind": "cli",
+  "setup": [],
+  "verify": [
+    "python3",
+    "regression.py"
+  ],
+  "demo": [
+    "python3",
+    "demo.py"
+  ]
+}
