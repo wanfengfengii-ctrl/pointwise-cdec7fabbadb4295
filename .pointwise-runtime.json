@@ -4,7 +4,7 @@
   "setup": [],
   "verify": [
     "python3",
-    "regression.py"
+    "verify.py"
   ],
   "demo": [
     "python3",
